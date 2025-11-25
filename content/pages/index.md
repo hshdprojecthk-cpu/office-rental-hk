@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 香香港香港租香港租工香港租攻香港租攻下及香港租攻下及辦香港租攻下及辦公香港租攻下及辦公室香港租攻下及辦公室
+      text: 香港租辦公室
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
