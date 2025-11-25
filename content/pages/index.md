@@ -49,7 +49,7 @@ sections:
           - pr-16
 seo:
   metaTitle: 香港租辦公室
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 香港租辦公室
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
