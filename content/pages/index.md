@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 香港租辦公室
 slug: /
 sections:
   - type: GenericSection
